@@ -18,11 +18,12 @@ Foi utilizado o *Jira* para planear e documentar o projeto. É possível encontr
 
 # Arquitetura
 
-
 ## Componentes
 
 - Apliacação Web (React)
-- 
+- Serviço(Spring Boot)
+- Message Broker (RabbitMQ)
+- Base de dados (MySQL)
 
 
 
