@@ -16,7 +16,7 @@ Este projeto foi desenvolvido no âmbito da unidade curricular de [Introdução 
 
 # Sobre o projeto
 
-O **Cheku** é um sistema que visa facilitar a gestão de veículos, permitindo a sua gestão de forma simples e intuitiva. Este surge como uma alternativa aos diferentes sistemas de gestão de veículos existentes no mercado, que geralemente são específicos para uma determinda marca ou modelo de veículo.
+O **Cheku** é um sistema que visa facilitar a gestão de veículos, permitindo a sua gestão de forma simples e intuitiva. Este surge como uma alternativa aos diferentes sistemas de gestão de veículos existentes no mercado, que geralmente são específicos para uma determinada marca ou modelo de veículo.
 O *Cheku* oferece ao utilizador um painel simples e intuitivo, onde pode gerir os seus veículos independentemente da marca ou modelo, registar as suas despesas e manutenções, e ainda consultar a sua localização geográfica.
 
 </br>
