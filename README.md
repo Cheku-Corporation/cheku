@@ -32,7 +32,7 @@ Foi utilizado o *Jira* para planear e documentar o projeto. É possível encontr
 
 ## Project Team
 
-- **Team Manager and Developer:** [Diogo Magalhães](https://github.com/MagalhaesD77) (NMEC:12470) </br>
+- **Team Manager and Developer:** [Diogo Magalhães](https://github.com/MagalhaesD77) (NMEC:102470) </br>
 - **Product Owner and Developer** [Vicente Barros](https://github.com/v1centebarros) (NMEC:97787) </br>
 - **Architect and Developer** [Mariana Andrade](https://github.com/MarianaAndrad) (NMEC:103823) </br>
 - **DevOps and Developer** [Emanuel Marques](https://github.com/EmanGM) (NMEC:102565) </br>
@@ -57,4 +57,4 @@ Foi utilizado o *Jira* para planear e documentar o projeto. É possível encontr
 </br>
 
 # Detalhes
-É possível encontrar mais informação sobre o projeto no [Relatório do Projeto]() </br>
+É possível encontrar mais informação sobre o projeto no [Relatório do Projeto](https://uapt33090-my.sharepoint.com/:w:/r/personal/marianaandrade_ua_pt/_layouts/15/Doc.aspx?sourcedoc=%7B7D3AC721-DECD-4A1F-B45D-CE95332DE08E%7D&file=ReportPT.docx&action=default&mobileredirect=true) </br>
