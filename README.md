@@ -1,3 +1,7 @@
+## Stable API Documentation
+
+[API documentation server link](https://documenter.getpostman.com/view/13973483/2s8YzMY5S1)
+
 # Cheku
 
 <p align="center">
