@@ -2,13 +2,17 @@ version: "3.9"
 
 services:
   application: 
-    build: .
+    build: back-end/
     ports:
       - "8080:8080"
     environment:
       - APP_DB=mysql
     depends_on:
       - mysql
+      - rabbitmq
+    networks:
+      - database
+      - broker
   mysql:
     image: mysql/mysql-server:5.7
     environment:
@@ -22,6 +26,8 @@ services:
       resources:
         limits:
           memory: 256M
+    networks:
+      - database
   rabbitmq:
     image: rabbitmq:3.11-management
     ports:
@@ -31,6 +37,8 @@ services:
       resources:
         limits:
           memory: 256M
+    networks:
+      - broker
   front-end:
     build: front-end/
     ports:
@@ -39,3 +47,10 @@ services:
     depends_on:
       - rabbitmq
     build: data-generator/
+
+
+networks:
+  database:
+    driver: bridge
+  broker:
+    driver: bridge
