@@ -1,7 +1,3 @@
-## Stable API Documentation
-
-[API documentation server link](https://documenter.getpostman.com/view/13973483/2s8YzMY5S1)
-
 # Cheku
 
 <p align="center">
@@ -31,6 +27,10 @@ Foi utilizado o *Jira* para planear e documentar o projeto. É possível encontr
 - `Jira` [planeamento](https://cheku.atlassian.net/jira/software/projects/CHEK/boards/1/backlog) </br>
 - `drive link` [documentação](https://uapt33090-my.sharepoint.com/:f:/g/personal/marianaandrade_ua_pt/EjbkBOygVNRNii7MnXxJxnIBDgwISWwrZxnWk3yRQOQ8JA?e=hD2BQf) </br>
 - `Relatório editável` [relatório](https://uapt33090-my.sharepoint.com/:w:/g/personal/marianaandrade_ua_pt/ESHHOn3N3h9KtF3OlTMt4I4BWKzw5qJiAZ-dbkbm4z4BDA?e=fKqeH9) </br>
+
+- [API documentation server link](https://documenter.getpostman.com/view/13973483/2s8YzMY5S1)
+
+
   
 </br>
 
@@ -52,13 +52,50 @@ Foi utilizado o *Jira* para planear e documentar o projeto. É possível encontr
 
 ## Componentes
 
-- Apliacação Web (React)
-- Serviço(Spring Boot)
-- Message Broker (RabbitMQ)
-- Base de dados (MySQL)
-- Geração de Dados (Python)
+- [**Apliacação Web (React)**](https://github.com/Cheku-Corporation/front-end)
+- [**Serviço(Spring Boot)**](https://github.com/Cheku-Corporation/back-end)
+- [**Message Broker (RabbitMQ)**](https://github.com/Cheku-Corporation/data-generator)
+- [**Base de dados (MySQL)**](https://github.com/Cheku-Corporation/back-end/tree/main/mySql)
+- **Geração de Dados (Python)**
 
 </br>
 
+# Como Executar
+Para executar o sistema em `localhost` é necessário ter o _Docker Compose_ instalado e atualizado.
+
+Posto isto, os passos são os seguintes:
+
+
+# _Deploy_ do Sistema
+
+
 # Detalhes
 É possível encontrar mais informação sobre o projeto no [Relatório do Projeto](https://uapt33090-my.sharepoint.com/:w:/r/personal/marianaandrade_ua_pt/_layouts/15/Doc.aspx?sourcedoc=%7B7D3AC721-DECD-4A1F-B45D-CE95332DE08E%7D&file=ReportPT.docx&action=default&mobileredirect=true) </br>
+
+# Login Informações 
+
+## Pessoa
+
+**email**:`dario@gmail.com`
+**password**:`dario`
+
+
+## Familia
+
+### Admin
+**email**: `joao@gmail.com`
+**password**:`joao`
+
+### Membro
+**email**: `matilde@gmail.com`
+**password**:`matilde`
+
+## Empresa
+
+### Admin 
+**email**: `cheku@gmail.com`
+**password**:`cheku`
+
+### Membro
+**email**: `bruno@gmail.com`
+**password**:`bruno`
