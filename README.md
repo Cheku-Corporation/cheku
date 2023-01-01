@@ -12,6 +12,9 @@
 </br>
 
 Este projeto foi desenvolvido no âmbito da unidade curricular de [Introdução à Engenharia de Software](https://www.ua.pt/en/uc/12288), da licenciatura em Engenharia Informática da [Universidade de Aveiro](https://www.ua.pt/).
+
+_Demostração_
+
 </br>
 
 # Sobre o projeto
@@ -60,7 +63,7 @@ Foi utilizado o *Jira* para planear e documentar o projeto. É possível encontr
 
 </br>
 
-# Como Executar
+# Executar localmente
 Para executar o sistema em `localhost` é necessário ter o _Docker Compose_ instalado e atualizado.
 
 Posto isto, os passos são os seguintes:
@@ -69,33 +72,33 @@ Posto isto, os passos são os seguintes:
 # _Deploy_ do Sistema
 
 
-# Detalhes
-É possível encontrar mais informação sobre o projeto no [Relatório do Projeto](https://uapt33090-my.sharepoint.com/:w:/r/personal/marianaandrade_ua_pt/_layouts/15/Doc.aspx?sourcedoc=%7B7D3AC721-DECD-4A1F-B45D-CE95332DE08E%7D&file=ReportPT.docx&action=default&mobileredirect=true) </br>
-
 # Login Informações 
 
 ## Pessoa
 
-**email**:`dario@gmail.com`
-**password**:`dario`
+**email**: `dario@gmail.com` </br>
+**password**: `dario`
 
 
 ## Familia
 
-### Admin
-**email**: `joao@gmail.com`
-**password**:`joao`
+### _Admin_
+**email**: `joao@gmail.com` </br>
+**password**: `joao`
 
-### Membro
-**email**: `matilde@gmail.com`
-**password**:`matilde`
+### _Membro_
+**email**: `matilde@gmail.com` </br>
+**password**: `matilde`
 
 ## Empresa
 
-### Admin 
-**email**: `cheku@gmail.com`
-**password**:`cheku`
+### _Admin_ 
+**email**: `cheku@gmail.com` </br>
+**password**: `cheku`
 
-### Membro
-**email**: `bruno@gmail.com`
-**password**:`bruno`
+### _Membro_
+**email**: `bruno@gmail.com` </br>
+**password**: `bruno`
+
+# Detalhes
+É possível encontrar mais informação sobre o projeto no [Relatório do Projeto]() </br>
