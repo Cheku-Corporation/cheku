@@ -1,7 +1,3 @@
-## Stable API Documentation
-
-[API documentation server link](https://documenter.getpostman.com/view/13973483/2s8YzMY5S1)
-
 # Cheku
 
 <p align="center">
@@ -16,21 +12,25 @@
 </br>
 
 Este projeto foi desenvolvido no âmbito da unidade curricular de [Introdução à Engenharia de Software](https://www.ua.pt/en/uc/12288), da licenciatura em Engenharia Informática da [Universidade de Aveiro](https://www.ua.pt/).
+
+_Demostração_
+
 </br>
 
 # Sobre o projeto
 
-O **Cheku** é um sistema que visa facilitar a gestão de veículos, permitindo a sua gestão de forma simples e intuitiva. Este surge como uma alternativa aos diferentes sistemas de gestão de veículos existentes no mercado, que geralmente são específicos para uma determinada marca ou modelo de veículo.
-O *Cheku* oferece ao utilizador um painel simples e intuitivo, onde pode gerir os seus veículos independentemente da marca ou modelo, registar as suas despesas e manutenções, e ainda consultar a sua localização geográfica.
-
+O **Cheku** é uma aplicação de gestão de veículos que ajuda os utilizadores a gerenciar sua frota de maneira mais eficiente. A aplicação permite ainda acompanhar a localização geográfica dos veículos em tempo real, notifica os utilizadores de pagamentos de seguro e manutenções e permite compartilhar informações com outros membros da família ou da empresa. Além disso, o **Cheku** é compatível com uma ampla variedade de veículos e possui uma interface intuitiva e fácil de usar. O Cheku é ideal para quem precisa gerenciar mais de um veículo e oferece uma gestão colaborativa e eficiente da frota.
 </br>
 
 # Backlog
 Foi utilizado o *Jira* para planear e documentar o projeto. É possível encontrar informção do projeto nos seguintes links:
 
 - `Jira` [planeamento](https://cheku.atlassian.net/jira/software/projects/CHEK/boards/1/backlog) </br>
-- `drive link` [documentação](https://uapt33090-my.sharepoint.com/:f:/g/personal/marianaandrade_ua_pt/EjbkBOygVNRNii7MnXxJxnIBDgwISWwrZxnWk3yRQOQ8JA?e=hD2BQf) </br>
-- `Relatório editável` [relatório](https://uapt33090-my.sharepoint.com/:w:/g/personal/marianaandrade_ua_pt/ESHHOn3N3h9KtF3OlTMt4I4BWKzw5qJiAZ-dbkbm4z4BDA?e=fKqeH9) </br>
+- `drive link` [documentação](https://uapt33090-my.sharepoint.com/:f:/g/personal/marianaandrade_ua_pt/EjbkBOygVNRNii7MnXxJxnIBDgwISWwrZxnWk3yRQOQ8JA?e=aZk7V2) </br>
+- `Relatório editável` [relatório](https://uapt33090-my.sharepoint.com/:w:/g/personal/marianaandrade_ua_pt/EVQBLCJx8e9Bj1sgSpaUFwoBTiRJQOHefqdP0fmrEITK-A?e=cduirK ) </br>
+
+- [API documentation server link](https://documenter.getpostman.com/view/13973483/2s8YzMY5S1)
+
   
 </br>
 
@@ -52,13 +52,54 @@ Foi utilizado o *Jira* para planear e documentar o projeto. É possível encontr
 
 ## Componentes
 
-- Apliacação Web (React)
-- Serviço(Spring Boot)
-- Message Broker (RabbitMQ)
-- Base de dados (MySQL)
-- Geração de Dados (Python)
+- [**Apliacação Web (React)**](https://github.com/Cheku-Corporation/front-end)
+- [**Serviço(Spring Boot)**](https://github.com/Cheku-Corporation/back-end)
+- [**Message Broker (RabbitMQ)**](https://github.com/Cheku-Corporation/data-generator)
+- [**Base de dados (MySQL)**](https://github.com/Cheku-Corporation/back-end/tree/main/mySql)
+- **Geração de Dados (Python)**
 
 </br>
 
+# Executar localmente
+Para executar o sistema em `localhost` é necessário ter o _Docker Compose_ instalado e atualizado.
+
+Posto isto, os passos são os seguintes:
+
+  1. Compile o código do serviço (dentro [do cheku](https://github.com/Cheku-Corporation/back-end/tree/main/cheku))
+
+  2. Para cada serviço, construa os containers e inicie.
+
+  3. Execute o comando `docker compose up` na raiz do projeto.
+
+## Login Informações 
+
+### Pessoa
+
+**email**: `dario@gmail.com` </br>
+**password**: `dario`
+
+
+### Familia
+
+#### _Admin_
+**email**: `joao@gmail.com` </br>
+**password**: `joao`
+
+#### _Membro_
+**email**: `matilde@gmail.com` </br>
+**password**: `matilde`
+
+### Empresa
+
+#### _Admin_ 
+**email**: `cheku@gmail.com` </br>
+**password**: `cheku`
+
+#### _Membro_
+**email**: `bruno@gmail.com` </br>
+**password**: `bruno`
+
 # Detalhes
-É possível encontrar mais informação sobre o projeto no [Relatório do Projeto](https://uapt33090-my.sharepoint.com/:w:/r/personal/marianaandrade_ua_pt/_layouts/15/Doc.aspx?sourcedoc=%7B7D3AC721-DECD-4A1F-B45D-CE95332DE08E%7D&file=ReportPT.docx&action=default&mobileredirect=true) </br>
+É possível encontrar mais informação sobre o projeto no [Relatório do Projeto]() </br>
+
+**Aplicação web disponível em**:  [192.168.160.225](http://192.168.160.225/ )
