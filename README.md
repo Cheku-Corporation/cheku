@@ -100,6 +100,6 @@ Posto isto, os passos são os seguintes:
 **password**: `bruno`
 
 # Detalhes
-É possível encontrar mais informação sobre o projeto no [Relatório do Projeto]() e [Apresentação do projeto](https://www.canva.com/design/DAFWhG3mOsY/Ks1MrOJJPY5VriH5dsXE3w/view?utm_content=DAFWhG3mOsY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel) </br>
+É possível encontrar mais informação sobre o projeto no [Relatório do Projeto](report/ReportPT.pdf) e [Apresentação do projeto](https://www.canva.com/design/DAFWhG3mOsY/Ks1MrOJJPY5VriH5dsXE3w/view?utm_content=DAFWhG3mOsY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel) </br>
 
 **Aplicação web disponível em**:  [192.168.160.225](http://192.168.160.225/ )
