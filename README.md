@@ -27,7 +27,7 @@ Foi utilizado o *Jira* para planear e documentar o projeto. É possível encontr
 
 - `Jira` [planeamento](https://cheku.atlassian.net/jira/software/projects/CHEK/boards/1/backlog) </br>
 - `drive link` [documentação](https://uapt33090-my.sharepoint.com/:f:/g/personal/marianaandrade_ua_pt/EjbkBOygVNRNii7MnXxJxnIBDgwISWwrZxnWk3yRQOQ8JA?e=aZk7V2) </br>
-- `Relatório editável` [relatório](https://uapt33090-my.sharepoint.com/:w:/g/personal/marianaandrade_ua_pt/EVQBLCJx8e9Bj1sgSpaUFwoBTiRJQOHefqdP0fmrEITK-A?e=cduirK ) </br>
+- `Relatório editável` [relatório](https://uapt33090-my.sharepoint.com/:w:/g/personal/marianaandrade_ua_pt/EVQBLCJx8e9Bj1sgSpaUFwoBTiRJQOHefqdP0fmrEITK-A?e=yYc1zz ) </br>
 
 - [API documentation server link](https://documenter.getpostman.com/view/13973483/2s8YzMY5S1)
 
@@ -100,6 +100,6 @@ Posto isto, os passos são os seguintes:
 **password**: `bruno`
 
 # Detalhes
-É possível encontrar mais informação sobre o projeto no [Relatório do Projeto]() </br>
+É possível encontrar mais informação sobre o projeto no [Relatório do Projeto]() e [Apresentação do projeto](https://www.canva.com/design/DAFWhG3mOsY/Ks1MrOJJPY5VriH5dsXE3w/view?utm_content=DAFWhG3mOsY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel) </br>
 
 **Aplicação web disponível em**:  [192.168.160.225](http://192.168.160.225/ )
