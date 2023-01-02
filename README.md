@@ -102,4 +102,4 @@ Posto isto, os passos são os seguintes:
 # Detalhes
 É possível encontrar mais informação sobre o projeto no [Relatório do Projeto]() </br>
 
-**Aplicação web disponível em:  [192.168.160.225](http://192.168.160.225/ )
+**Aplicação web disponível em**:  [192.168.160.225](http://192.168.160.225/ )
